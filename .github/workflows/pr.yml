@@ -1,0 +1,14 @@
+name: PR
+on: pull_request
+permissions: {}
+jobs:
+  lint:
+    name: lint
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "canary lint ok"
+  cla:
+    name: cla/google
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "canary CLA ok"

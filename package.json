@@ -1,0 +1,9 @@
+{
+  "name": "ngdev-merge-range-replica",
+  "version": "1.1.0-next.0",
+  "private": true,
+  "packageManager": "pnpm@12.16.1",
+  "devDependencies": {
+    "@angular/ng-dev": "https://github.com/angular/dev-infra-private-ng-dev-builds.git#2e989b1cfb3a6fd8dc8d14c513f10f3084e6b970"
+  }
+}
