@@ -1,1 +1,1 @@
-Notes for the replica.
+Notes for the canary replica.
